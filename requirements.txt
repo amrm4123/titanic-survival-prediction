@@ -1,0 +1,19 @@
+# Titanic Survival Prediction - Dependencies
+# Version: 1.0.0
+
+# Core Data Science
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Utilities
+joblib==1.2.0
+jupyter==1.0.0
+
+# Development (optional)
+notebook==6.5.6
+ipython==8.14.0
