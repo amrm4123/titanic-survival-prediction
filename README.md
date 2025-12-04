@@ -52,10 +52,10 @@ End-to-end workflow:
 `Data loading → preprocessing → training → evaluation → prediction`
 
 ### 📊 Professional Code Structure
-Modular organization with clear separation of concerns.
+Modular organisation with clear separation of concerns.
 
 ### 🚫 Data Leakage Prevention
-Training and test transformations handled properly and separately.
+Training and test transformations are handled properly and separately.
 
 ### 📈 Feature Engineering
 Includes meaningful engineered features such as:
@@ -64,7 +64,7 @@ Includes meaningful engineered features such as:
 
 ### 🤖 Model Training
 - Random Forest Classifier  
-- Hyperparameter optimization  
+- Hyperparameter optimisation  
 - Evaluation and performance reporting
 
 ### 📋 Evaluation Metrics
@@ -78,9 +78,4 @@ Save and load trained:
 
 ### 📤 Kaggle Integration
 Automatically generates a **ready-to-submit CSV** for Kaggle.
-
----
-
-## 📁 Project Structure
-*(Example — modify based on your repo)*
 
